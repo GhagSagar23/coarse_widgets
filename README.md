@@ -37,13 +37,13 @@ CommonWidgets.iaLoader()
 
 ### Console Logger
 ```dart
-/// Use the [iaLogger] to print the data on to the console.
-iaLogger.log("This is just a demo console log.");
+/// Use the [cwLog] to print the data on to the console.
+cwLog.log("This is just a demo console log.");
 
 // Additionally, you can also specify the kind of log this is going to be.
-iaLogger.log("Failed: '$e'.", level: Level.error);
+cwLog.log("Failed: '$e'.", level: Level.error);
 
-/// Here is the list of all the levels of [iaLogger] available.
+/// Here is the list of all the levels of [cwLog] available.
 /*
     * verbose
     * debug

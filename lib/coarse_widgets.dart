@@ -7,4 +7,4 @@ export './src/index.dart';
 //? MARK: - Public Variables
 
 /// Global Constructor of [ConsoleLogger]
-final ConsoleLogger iaLogger = ConsoleLogger();
+final ConsoleLogger cwLog = ConsoleLogger();

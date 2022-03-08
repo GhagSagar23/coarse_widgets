@@ -1,6 +1,6 @@
 name: coarse_widgets
 description: A Package with predefined components to ease the development cycle.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/GhagSagar23/coarse_widgets
 
 environment:

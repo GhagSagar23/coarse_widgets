@@ -1,0 +1,4 @@
+enum CWDialogType {
+  PlatformSpecific,
+  Default,
+}
